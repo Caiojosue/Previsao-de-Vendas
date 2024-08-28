@@ -60,7 +60,7 @@ Visualizar a correlação entre diferentes variáveis, como preços, promoções
 
 O sucesso do projeto depende da qualidade dos dados e da escolha adequada do modelo de machine learning, a colaboração entre especialistas de negócios e cientistas de dados é crucial para a correta interpretação dos resultados e para a implementação eficaz do modelo no ambiente de negócios
 
-## Imagens do Modelo: 
+## Imagens do Modelo 
 
 ![Imagem1](https://github.com/Caiojosue/imagens/blob/main/Sem%20t%C3%ADtulo.png)
 
