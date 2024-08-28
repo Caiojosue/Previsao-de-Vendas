@@ -1,5 +1,7 @@
 # Sobre o projeto
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Caiojosue/Bot-Pedbot/blob/main/LICENSE)
+
 Esse é um modelo de previsão de vendas com Machine Learning, que tem como objetivo Desenvolver um modelo de machine learning capaz de prever as vendas futuras de uma empresa ou loja, utilizando dados históricos de vendas e outras variáveis relevantes, o objetivo auxiliar na tomada de decisões estratégicas, como planejamento de estoque, marketing, e otimização de recursos
 
 ## Etapas do projeto
@@ -60,3 +62,10 @@ O sucesso do projeto depende da qualidade dos dados e da escolha adequada do mod
 
 ## Imagens do Modelo: 
 
+![Imagem1]()
+
+![Imagem1]()
+
+![Imagem1]()
+
+![Imagem1]()
