@@ -62,10 +62,17 @@ O sucesso do projeto depende da qualidade dos dados e da escolha adequada do mod
 
 ## Imagens do Modelo: 
 
-![Imagem1]()
+![Imagem1](https://github.com/Caiojosue/imagens/blob/main/Sem%20t%C3%ADtulo.png)
 
-![Imagem1]()
+![Imagem2](https://github.com/Caiojosue/imagens/blob/main/Sem%20t%C3%ADtulo1.png)
 
-![Imagem1]()
+![Imagem3](https://github.com/Caiojosue/imagens/blob/main/Sem%20t%C3%ADtulo2.png)
 
-![Imagem1]()
+![Imagem4](https://github.com/Caiojosue/imagens/blob/main/Sem%20t%C3%ADtulo3.png)
+
+# Autor
+
+Caio Josué Ferreira de Sando
+
+### Linkedin
+https://www.linkedin.com/in/caio-sando-14ba1a2b5/
