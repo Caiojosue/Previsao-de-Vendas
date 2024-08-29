@@ -57,6 +57,7 @@ Visualizar a correlação entre diferentes variáveis, como preços, promoções
 
 # Executando o Projeto
 
+https://github.com/user-attachments/assets/d8aae7f2-e031-46ba-8d53-58a8fb6278ab
 
 
 # Considerações Finais
