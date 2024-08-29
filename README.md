@@ -55,6 +55,9 @@ Visualizar a correlação entre diferentes variáveis, como preços, promoções
   
 - Aumento na eficiência operacional e nas margens de lucro através de decisões baseadas em dados
 
+# Executando o Projeto
+
+
 
 # Considerações Finais
 
@@ -69,6 +72,10 @@ O sucesso do projeto depende da qualidade dos dados e da escolha adequada do mod
 ![Imagem3](https://github.com/Caiojosue/imagens/blob/main/Sem%20t%C3%ADtulo2.png)
 
 ![Imagem4](https://github.com/Caiojosue/imagens/blob/main/Sem%20t%C3%ADtulo3.png)
+
+![Imagem5](https://github.com/Caiojosue/imagens/blob/main/boxplot2.png)
+
+![Imagem6](https://github.com/Caiojosue/imagens/blob/main/boxplot1.png)
 
 # Autor
 
