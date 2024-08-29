@@ -60,6 +60,12 @@ Visualizar a correlação entre diferentes variáveis, como preços, promoções
 https://github.com/user-attachments/assets/d8aae7f2-e031-46ba-8d53-58a8fb6278ab
 
 
+```bash
+df_original = pd.read_csv('online_shoppers_intention.csv')
+df_original.head()
+```
+### Comando para executar a planilha em .csv "lembrando que o arquivo deve estar na mesma pasta que o modelo"
+
 # Considerações Finais
 
 O sucesso do projeto depende da qualidade dos dados e da escolha adequada do modelo de machine learning, a colaboração entre especialistas de negócios e cientistas de dados é crucial para a correta interpretação dos resultados e para a implementação eficaz do modelo no ambiente de negócios
